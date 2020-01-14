@@ -1,0 +1,9 @@
+.Box {
+  height: 20em;
+  width: 20em;
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
